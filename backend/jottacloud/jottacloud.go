@@ -38,7 +38,7 @@ const (
 	decayConstant     = 2 // bigger for slower decay, exponential
 	defaultDevice     = "Jotta"
 	defaultMountpoint = "Sync"
-	rootURL           = "https://www.jottacloud.com/jfs/"
+	rootURL           = "https://up.jottacloud.com/jfs/"
 	apiURL            = "https://api.jottacloud.com"
 	shareURL          = "https://www.jottacloud.com/"
 	cachePrefix       = "rclone-jcmd5-"
